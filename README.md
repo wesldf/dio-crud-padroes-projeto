@@ -1,9 +1,9 @@
 ## Projeto DIO - Padrões de Projeto (Padrão Controller)
 
- **Descrição **
+ **Descrição**
 Este projeto é uma implementação prática do padrão de projeto "Controller". Ele é construído usando Spring Boot para segurança e JDBC para integração com MySQL.
 
- **Funcionalidades **
+ **Funcionalidades**
 Autenticação e autorização com Spring Security.
 CRUD de usuários.
 
